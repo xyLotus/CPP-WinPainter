@@ -1,6 +1,6 @@
 # C-WinPainter
 C++ version of the original Python WinPainter module by bellrise
-![Total-Lines](https://img.shields.io/badge/Total_Lines-1-green?style=flat-square
+![Total-Lines](https://img.shields.io/badge/Total_Lines-pink?style=flat-square)
 ![Under-Development](https://img.shields.io/badge/Under-Development-pink?style=flat-square)
 
 
