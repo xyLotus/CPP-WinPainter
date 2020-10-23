@@ -1,6 +1,6 @@
 # C-WinPainter
 C++ version of the original Python WinPainter module by bellrise
-![Under-Development](https://img.shields.io/badge/Under-Development-lila?style=flat-square)
+![Under-Development](https://img.shields.io/badge/Under-Development-pink?style=flat-square)
 
 
 # Functionalities 
